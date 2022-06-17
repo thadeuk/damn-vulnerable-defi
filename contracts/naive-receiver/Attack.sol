@@ -7,7 +7,7 @@ import "./NaiveReceiverLenderPool.sol";
 
 /**
  * @title Attack
- * @author Damn Vulnerable DeFi (https://damnvulnerabledefi.xyz)
+ * @author Thadeu Tucci
  */
 contract Attack {
     NaiveReceiverLenderPool pool;
